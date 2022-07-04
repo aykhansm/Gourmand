@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aykhan\\source\\repos\\Gourmand\\Gourmand\\Gourmand.csproj": {}
+    "C:\\Users\\Aykhan\\Desktop\\Gourmand\\Gourmand\\Gourmand.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aykhan\\source\\repos\\Gourmand\\Gourmand\\Gourmand.csproj": {
+    "C:\\Users\\Aykhan\\Desktop\\Gourmand\\Gourmand\\Gourmand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aykhan\\source\\repos\\Gourmand\\Gourmand\\Gourmand.csproj",
+        "projectUniqueName": "C:\\Users\\Aykhan\\Desktop\\Gourmand\\Gourmand\\Gourmand.csproj",
         "projectName": "Gourmand",
-        "projectPath": "C:\\Users\\Aykhan\\source\\repos\\Gourmand\\Gourmand\\Gourmand.csproj",
+        "projectPath": "C:\\Users\\Aykhan\\Desktop\\Gourmand\\Gourmand\\Gourmand.csproj",
         "packagesPath": "C:\\Users\\Aykhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aykhan\\source\\repos\\Gourmand\\Gourmand\\obj\\",
+        "outputPath": "C:\\Users\\Aykhan\\Desktop\\Gourmand\\Gourmand\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aykhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
